@@ -15,5 +15,5 @@ export class ServersComponent implements OnInit {
 		this.servers = this.serversService.getServers();
 	}
 
-	onReload() {}
+	// onReload() {}
 }
